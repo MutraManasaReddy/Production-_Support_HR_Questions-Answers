@@ -1,0 +1,270 @@
+                                        Support Engineering HR interview Questions and answers
+
+My name is Mutra Manasa. I have around 3 + years of experience working as a Support Engineer in the IT industry. I completed my post-graduation in 2022 from JNTU University, Anantapur, and my specialization in Software Engineering and cloud computing.
+I Initially started working as a support engineer for Java based enterprise applications . later, I worked as a support for Multi-cloud AI/GenAI platform. I worked across L1, L2, L3 support, handling production issues, monitoring, incident management and coordinating with dev team and DBA team & cloud teams to ensure application stability and SLA compliance.
+
+Coming to my recent project focuses on platform level support for a Multi-cloud AI/GenAI platform enabling enterprise teams to securely consume foundation models and AI services across AWS & Azure. The role emphasize access management, service availability, monitoring, quota management and incident handling to ensure stable and compliant AI platform operation.
+
+Coming to my roles and responsibilities.
+
+I provide L1, L2, L3 support for AI platform services such as AWS Bedrock & Azure OpenAI ensure platform availability and reliability.
+
+A major part of my role is troubleshooting IAM policies and RBAC issue in AWS and Azure including permission errors, authentication failure and access misconfigurations.
+
+I handle incidents and changes through Service Now and JIRA, ensuring SLA compliance and performing RCA for P1 and P2 outages.
+
+I support service quota limitations issue.
+
+During critical incidents I coordinate with AI platform team and vendors team support to restore services quickly.
+
+I monitor platform health, latency and error metrics using CloudWatch, Azure Monitor, Grafana dashboards to proactively identify issues.
+
+I have strong experience on troubleshooting application and DB issues using logs and SQL queries.
+
+I have excellent work experience on production monitoring and system performance monitoring.
+
+I have strong experience on resolving tickets.
+
+I have strong expertise in supporting an AI platform used by multiple internal teams across DEV, TEST, PROD.
+
+I have strong experience on enabling and supporting foundation models like GPT, Llama for internal teams based on their requirements.
+
+I have strong experience in handling incidents and service requests in tools like ServiceNow, Jira.
+
+i have good experinces with giving access to users in Databricks.
+
+i have strong expertise in Creating scopes for the data areas in databricks and adding SPN creadentials in scopes.
+
+i have good experinces on created clusters to run the notebooks and jobs in databricks.
+
+Q) DID YOU FACED ANY P1 INCIDENT RECENTLY? IF SO HOW DO YOU HANDLE IT?
+
+Answer: Yes, I recently handled a P1 incident where a production service became unavailable. I immediately acknowledged the incident, informed stakeholders, and joined a bridge call. I checked application logs, monitoring dashboards, and service health. We identified a configuration issue causing the failure. I coordinated with the L3 team and cloud teams to apply the fix, validated the service restoration, and provided regular updates until closure. After resolution, we documented the RCA.
+
+Q) HAVE YOU BEEN INTO DEVELOPER OR SUPPORT?
+
+Answer: “My primary experience is in Support Engineering, but I work very closely with developers and have strong technical understanding of the systems.
+
+Q) ARE YOU SUPPORTING FOR L1 TEAM OR L3 TEAM?
+
+Answer: “I work across L1 and L2, and collaborate with L3 for complex issues.
+
+Q) WHAT IS SLA? HOW DO YOU CATEGORIZE AND PRIORITIZE TICKETS?
+
+Answer: SLA (Service Level Agreement) defines the response and resolution timelines committed to users. i will start working on high priority ticket because we need to respond with in 30min and resolve with in 2-4 hours if no very high priority tickets then i will work on high after will work on medium then i will work on low priority tickets .
+
+Q) HOW DO YOU UPDATE TO THE END USERS?
+
+Answer: Through Service now, Microsoft Teams, and Emails.
+
+Q) HOW DO YOU FIND RCA?
+
+Answer:
+
+I will try to understand error dercription, screenshort, and codes.
+
+i will try to reproduce if possible.
+
+i will check platform service logs.
+
+check monitoring dashboard for [CPU, MEMORY, LATENCY, ERROR RATE].
+
+validate service health checks for [API, DATABASE, AUTHENTHAICATION, NETWORK].
+
+Q) WHAT IS INCIDENT?
+
+ANSWER:
+
+When a user creates new incident, it appears in the incident list with the state set to new.
+
+When the incident is assigned to the support group or an individual it updated statues with assigned.
+
+When the assigned user start working on the incident. The state is updated to “In Progress”.
+
+If assigned user need additional information, change state to awaited and request additional information from user.
+
+If assigned user don;t know how to resolve incident, assign to L3 team(dev team).
+
+if assigned user know how to resolve incident, provide solution and update state to resolved.
+
+After confirmation from the user, the incident state is updated to closed state.
+
+Q) HAVE YOU WORK WITH INTERNAL TEAM ?
+
+A) i worked with L3 team to resolve the incidents.
+
+Q) WHEN WILL YOU WORK WITH L3 TEAM ?
+
+A) when i have very high priority issue and i don’t know how to resolve issue, i will assigned to L3 team and i will send email or message in teams.
+
+Q) HOW TO YOU PRIORITIES THE INCIDENT ?
+
+A) I will start working on high priority ticket because we need to respond with in 30min and resolve with in 2-4 hours if no very high priority tickets then i will work on high after will work on medium then i will work on low priority tickets .
+
+Q) Have you ever MISSED a DEADLINE? What happened?
+
+A) yes, we received high priority ticket i need support from L3 team due to unavailability of L3 team we miss the deadline. However, I immediately informed stakeholders about the dependency and provided regular status updates.
+
+Q) HAVE YOU EVER METOR JUNIOR ?
+
+A) no i didn’t get a chance to mentor.
+
+Q) HOW TO HANDLE ESCALATION ?
+
+A) I treat escalation as feedback from the system. If it reveals a skill or process gap, I take ownership and close that gap.
+
+Q) DO YOU HAVE ANY IDEA FOR I AM ROLES AND RBAC ROLES?
+
+Answer:
+
+we will onboard new users and provide necessary using I AM roles.
+
+i strikes system access based on users role.
+
+Q) DO YOU WANT TO MOVING TO ANY OTHER TECHNOLOGIES (OR) WE WANT TO WORK ON GENAI PLATFORM?
+
+Answer: I prefer to work on AI Projects. However based on bussiness needs, i am flexible to contributes other projects.
+
+Q) ARE YOR COMFORTABLE ROTATIONAL SHIFTS?
+
+Answer: Yes, comfortable depends on project requirement.
+
+Q) ARE YOU OK ROTATIONAL SHIFTS?
+
+Answer: Yes, I am ok with rotation shifts, depends on project requirement.
+
+Q) HOW COMFORTABLE RAG?
+
+Answer: Yes, i have strong knowledge on RAG . I can rate my self 4 out of 5.
+
+Q) NOW A DAYS YOU CAN LEARNING?
+
+Answer: I have strong knowledge on promt engineering, genai, rag, and agents.
+
+Q) WHY SHOULD WE HIRE YOU?
+
+Answer:
+
+“I bring strong AI platform support experience, incident handling skills, and good coordination between L1 and L3 teams.
+
+I understand enterprise processes, SLAs, and customer expectations. I can contribute immediately to platform stability and user satisfaction.”
+
+Q) WHAT ARE YOU YOUR STRENGTHS?
+
+Answer:
+
+Strong incident handlings skills
+Good coordination with L3/development teams
+Calm under high-priority situations
+Good communication with customers
+SLA-focused and process-driven
+
+Q) WHAT IS YOUR WEAKNESS?
+
+Answer:
+
+“Earlier, I used to focus more on technical details. Now I am improving my communication to give clear and concise updates to stakeholders.”
+
+Q .HOW DO YOU HANDLE PRESSURE?
+
+Answer:
+I stay calm, prioritize tasks based on severity, follow incident management process, and communicate clearly with stakeholders. Pressure is common in IT support, so I focus on solution rather than panic.
+
+Q). DESCRIBE YOUR DAILY RESPONSIBILITIES?
+
+Answer:
+
+Managing API access and credentials
+Monitoring platform availability
+Troubleshooting deployment and RAG issues
+Handling rate limit errors
+Coordinating with L3 for complex problems
+Ensuring SLA compliance.
+
+Q) Why four month gap?
+
+I am married and my husband is staying in Singapore. I previously had a work from home option at TCS, so I moved to Singapore. However, due to recent policy changes, TCS discontinued the work from home option. As a result, I resigned from my position and started searching for job opportunities in Singapore.
+
+Since I was on a dependent pass and had limited local experience, it was challenging to secure a job in Singapore. Therefore, I am now actively exploring opportunities in India.
+
+Q) How many days you come office?
+
+I prefer working from home, however I am flexible and can work from office whenever the project required.
+
+Q) Why you put Onspec in your resume?
+
+I worked at TCS as a software engineer, deployed through Onspec technology solutions pvt ltd and my payroll was handled by Tech Pinnacle BIT Solutions.
+I have clearly mentioned this in my resume to avoid any confusion during background verification.
+
+Q) What is your present company details?
+
+ITPL, Kadugodi, Whitefield, Bangalore, Anchor annex building, ITPL.
+
+My payroll company details:
+
+5th floor, Plot no 802and 803, Ayyappa road, Ayyappa society, Madhapur, Hyderabad, India 500081.
+
+Payroll company name: Tech Pinnacle BIT Solutions.
+
+Project Name 1: Eli Lilly Healthcare
+Duration: Sep 2022 to July 2024
+Joining Date: Aug-8-2022
+
+Project Name 2: Multi cloud AI Platform
+Duration: Aug 2024 to Oct 2025
+Joining Date: Aug-5-2024
+Last working day: Oct-30-2025
+
+Q) Eli Lilly Healthcare Project – Short Description
+
+Worked on a healthcare domain project supporting Eli Lilly, a global pharmaceutical company specializing in prescription medicines for diabetes, oncology, and autoimmune diseases. The platform supports critical products such as diabetes and insulin medications, oncology treatments, and immunology drugs.
+
+My role involved production support, incident management, monitoring application availability, troubleshooting access and performance issues, and ensuring SLA compliance for enterprise healthcare systems handling sensitive medical data.
+
+Q) What is your current CTC and expected CTC?
+
+Around 54k per month.
+
+Around 75k per month.
+
+
+Q) Why move from Java support to AI platform support?
+Answer:
+I moved from Java support to AI platform support because I wanted to grow in new technologies. AI and cloud platforms are the future, and I wanted to build skills in that area while using my strong production support experience.
+
+Q) How do you manage work-life balance in shifts?
+Answer:
+I plan my routine around shift schedules and ensure proper rest. I maintain task prioritization and avoid burnout by clear communication and time management.
+
+Q) Where do you see yourself in the next 3 years?
+Answer:
+I see myself growing into an AI/Cloud Platform Engineer role, focusing on automation, reliability, and platform architecture while taking more ownership and leadership responsibilities.
+
+Q) Will you be having interaction with the client?
+Answer:
+Yes, I regularly interact with clients during production issues and high-priority incidents. I provide updates, explain root causes, and ensure SLA compliance. I’m comfortable handling client communication professionally.
+
+Q) what messure preventation action taking the missed sla?
+Answer:
+To prevent missing SLA, I prioritize tickets based on severity, monitor deadlines regularly, and communicate. I also escalate to L3 team on time and follow up continuously until resolution.
+
+Q) if two p1 tickets are come to same time then how do you handle?
+Answer:
+first I acknowledge both tickets and inform stakeholders. Then I quickly assess the impact and prioritize based on business criticality. I also coordinate with my team and escalate if needed to ensure both issues are resolved as quickly as possible.
+
+Q) production application is down you receied any tickets and mail. how do you handle ?
+Answer:
+If a production application is down, first I acknowledge the ticket and inform stakeholders. Then I check monitoring tools and logs to identify the issue. If needed, I immediately escalate to the concerned team and follow up until the application is restored. After resolution, I provide updates and RCA.
+
+Q) can you please tell me which area you need to improve the yourself?
+Answer:
+I am improving my automation and deep technical knowledge to become more efficient.
+
+Q) How do handle the conflict ?
+Answer:
+yes, I faced a conflict once, and I resolved it with the help of my senior colleague through proper discussion.
+
+Q) how have your meeting will be there l1 and l3 support team how happen will be there weekday?
+Answer:
+
+L1 and L3 teams meet during weekdays to discuss critical issues, escalations, and ticket updates, and knowledge sharing and future.
